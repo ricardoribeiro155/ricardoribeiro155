@@ -17,9 +17,10 @@ Aprendendo....
 Conhecimentos em:
 
 <img height=50  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />  <img height= 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+
 <div>
-<a href="https://github.com/seu-usuário-aqui">
-<img height= 100 width=500 " src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoribeiro155&layout=compact&langs_count=7&theme=dracula"/>
+ <a href="https://github.com/ricardoribeiro155">
+ <img height= 150 " src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoribeiro155&layout=compact&langs_count=7&theme=dracula"/>
 <img height= 150 src="https://github-readme-stats.vercel.app/api?username=ricardoribeiro155&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
