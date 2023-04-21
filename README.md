@@ -10,7 +10,7 @@ height=20 src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-ba
 
 Aprendendo.... 
 
-<img height=40 src= "https://yt3.googleusercontent.com/ytc/AGIKgqM8zh66fZqGKeTkopHaU9GM4zvyuFnQhXThr37u=s900-c-k-c0x00ffffff-no-rj"/>  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" />
+<img height= 30 src= "https://yt3.googleusercontent.com/ytc/AGIKgqM8zh66fZqGKeTkopHaU9GM4zvyuFnQhXThr37u=s900-c-k-c0x00ffffff-no-rj"/>  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" />
 
 
 
