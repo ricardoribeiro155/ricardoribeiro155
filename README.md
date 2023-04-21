@@ -1,16 +1,31 @@
-### Hi there 👋
 
-<!--
-**ricardoribeiro155/ricardoribeiro155** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 Olá bem vindo ao meu perfil do guihub. meu nome é Ricardo.
+- 🔭 Atualmente estou trabalhando  na prefeitura de Indaiatuba.
+- 📝 Estou me graduando no curso de análise e desenvolvimento de sistemas pela faculdade Unicesumar.
+-  🌱 Em meus estudos extra pela Alura e a udemy estou aprendendo flutter e dart 
+- 📫 Como entrar em contato comigo:  <a href="https://www.linkedin.com/in/ricardo-ribeiro-da-luz-390a26236/" target="_blank"><img 
+height=20 src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Aprendendo.... 
+
+<img height=50 src= "https://yt3.googleusercontent.com/ytc/AGIKgqM8zh66fZqGKeTkopHaU9GM4zvyuFnQhXThr37u=s900-c-k-c0x00ffffff-no-rj"/>  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" />
+
+
+
+Conhecimentos em:
+
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />  <img height= 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoribeiro155&layout=compact&langs_count=7&theme=dracula"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=ricardoribeiro155&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+
+          
+          
+          
+  
+          
