@@ -10,7 +10,7 @@ height=20 src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-ba
 
 Aprendendo.... 
 
-<img height=50  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />  <img height= 50 
+<img height=50  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />  
 
 
 Conhecimentos em:
