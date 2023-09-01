@@ -2,7 +2,7 @@
 - 👋 Olá bem vindo ao meu perfil do guihub. meu nome é Ricardo.
 - 🔭 Atualmente estou trabalhando  na prefeitura de Indaiatuba.
 - 📝 Estou me graduando no curso de análise e desenvolvimento de sistemas pela faculdade Unicesumar.
--  🌱 Em meus estudos extra pela Alura e a udemy estou aprendendo flutter e dart 
+-  🌱 Em meus estudos extra pela Alura e a udemy java,Spring Boot e javaScript
 - 📫 Como entrar em contato comigo:  <a href="https://www.linkedin.com/in/ricardo-ribeiro-da-luz-390a26236/" target="_blank"><img 
 height=20 src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
