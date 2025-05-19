@@ -3,7 +3,7 @@
           
   
           
-<h1 align="center">Olá, eu sou o [Seu Nome]! 👋</h1>
+<h1 align="center">Olá, eu sou o Ricardo ! 👋</h1>
 
 <p align="center">
   Desenvolvedor Mobile em formação | React Native | Node.js | Backend em evolução
