@@ -28,7 +28,7 @@ Tenho foco em me tornar um desenvolvedor **Full Stack JavaScript**, com domínio
 - 💾 MySQL e MongoDB (básico)
 - 🎨 React Native Elements | React Navigation
 - 💻 Git e GitHub
-- 🧰 VS Code, Postman, Insomnia
+- 🧰 VS Code e Postman
 
 ---
 
