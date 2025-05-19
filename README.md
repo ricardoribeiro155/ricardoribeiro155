@@ -1,32 +1,59 @@
-![image](https://github.com/user-attachments/assets/bd24ddfd-4185-49c6-ba97-05e5570c581f)
-- 👋 Olá bem vindo ao meu perfil do guihub. meu nome é Ricardo.
-- 🔭 Atualmente estou trabalhando  na prefeitura de Indaiatuba.
-- 📝 sou graduado no curso de análise e desenvolvimento de sistemas pela faculdade Unicesumar.
--  🌱 Em meus estudos extra pela Alura e a udemy   mobile: javaScript, typeScript, React native && back end: javaScript node.js express.js 
-- 📫 Como entrar em contato comigo:  <a href="https://www.linkedin.com/in/ricardo-ribeiro-da-luz-390a26236/" target="_blank"><img 
-height=20 src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
-
-
-Aprendendo.... 
-
-<img height=50  />  
-
-
-Conhecimentos em:
-
-<img height=50  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />  <img height= 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-
-
-
-<div align="center">
-  <a href="https://github.com/ricardoribeiro155" target="_blank">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardoribeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoribeiro155&layout=compact&langs_count=7&theme=dark" />
-</div>
-
-          
           
           
   
           
+<h1 align="center">Olá, eu sou o [Seu Nome]! 👋</h1>
+
+<p align="center">
+  Desenvolvedor Mobile em formação | React Native | Node.js | Backend em evolução
+</p>
+
+---
+
+## 🚀 Sobre mim
+
+Sou formado em **Análise e Desenvolvimento de Sistemas** e estou em constante evolução como desenvolvedor.  
+Atualmente, estudo e desenvolvo projetos com **React Native**, além de estar me especializando em **Node.js com Express.js** para trabalhar com APIs e back-end.
+
+Tenho foco em me tornar um desenvolvedor **Full Stack JavaScript**, com domínio de todo o ciclo de desenvolvimento de software — do mobile ao back-end.
+
+---
+
+## 🧠 Conhecimentos e tecnologias
+
+- ⚛️ React Native (mobile)
+- 🌐 Node.js + Express (back-end)
+- 📦 APIs REST
+- 💾 MySQL e MongoDB (básico)
+- 🎨 React Native Elements | React Navigation
+- 💻 Git e GitHub
+- 🧰 VS Code, Postman, Insomnia
+
+---
+
+## 📚 Estou estudando atualmente:
+
+- Integração de front-end (React Native) com back-end (Node.js)
+- Boas práticas com Express.js e organização de rotas e middlewares
+- Criação de APIs REST seguras e escaláveis
+
+---
+
+## 📂 Repositórios em destaque
+
+🔹 [Lista de Usuários com React Native]()  
+🔹 [API de usuários com Node.js]()
+
+---
+
+## 📫 Como me encontrar
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ricardo-ribeiro-390a26236/)
+- 🐱 GitHub: [@seu-usuario]()
+- 📧 Email: ricardoribeiro155@email.com
+
+---
+
+⭐ Obrigado por visitar meu perfil! Fique à vontade para explorar meus projetos, sugerir melhorias ou conectar-se comigo.
+ 
