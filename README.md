@@ -50,7 +50,7 @@ Tenho foco em me tornar um desenvolvedor **Full Stack JavaScript**, com domínio
 ## 📫 Como me encontrar
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ricardo-ribeiro-390a26236/)
-- 🐱 GitHub: [@seu-usuario]()
+- 🐱 GitHub: https://github.com/ricardoribeiro155
 - 📧 Email: ricardoribeiro155@email.com
 
 ---
