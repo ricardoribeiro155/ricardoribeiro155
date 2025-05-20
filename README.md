@@ -42,7 +42,7 @@ Tenho foco em me tornar um desenvolvedor **Full Stack JavaScript**, com domínio
 
 ## 📂 Repositórios em destaque
 
-🔹 [Lista de Usuários com React Native]()  
+🔹 [Lista de Usuários com React Native](https://github.com/ricardoribeiro155/lista-de-usuarios.git)  
 🔹 [API de usuários com Node.js](https://github.com/ricardoribeiro155/e-commerce-api.git)
 
 ---
@@ -50,8 +50,8 @@ Tenho foco em me tornar um desenvolvedor **Full Stack JavaScript**, com domínio
 ## 📫 Como me encontrar
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ricardo-ribeiro-390a26236/)
-- 🐱 GitHub: https://github.com/ricardoribeiro155
-- 📧 Email: ricardoribeiro155@email.com
+- 🐱 [GitHub]( https://github.com/ricardoribeiro155)
+- 📧 [Email] (ricardoribeiro155@email.com)
 
 ---
 
