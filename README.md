@@ -43,7 +43,7 @@ Tenho foco em me tornar um desenvolvedor **Full Stack JavaScript**, com domínio
 ## 📂 Repositórios em destaque
 
 🔹 [Lista de Usuários com React Native]()  
-🔹 [API de usuários com Node.js]()
+🔹 [API de usuários com Node.js](https://github.com/ricardoribeiro155/e-commerce-api.git)
 
 ---
 
